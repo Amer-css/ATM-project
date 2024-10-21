@@ -1,0 +1,104 @@
+﻿  Bank Project.cpp
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(40,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(45,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(57,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(194,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUtil.h(63,5): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUser.h(195,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project.cpp')
+  C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUser.h(23,12):
+  see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(235,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20Project.cpp')
+  C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(215,9):
+  see declaration of 'clsBankClient::stTransferLogRecord'
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(32,24): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(225,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(226,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(227,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(591,22): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(594,27): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(606,23): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(610,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(682,45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsTotalBalancesScreen.h(53,78): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsTransferScreen.h(40,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(12,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(14,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(17,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(19,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(21,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsAddNewUsersScreen.h(23,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(14,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(16,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(19,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(21,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(23,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUpdateUserScreen.h(25,11): warning C4129: 'E': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project.cpp')
+  
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsBankClient.h(401): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\amerb\Desktop\C++\Bank\Bank Project\Bank Project\clsUser.h(357): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank Project.vcxproj -> C:\Users\amerb\Desktop\C++\Bank\Bank Project\x64\Debug\Bank Project.exe
